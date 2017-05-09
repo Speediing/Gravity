@@ -1,7 +1,7 @@
 ---
 layout: page
-title : HIIII
-permalink: /hi/
+title : Contact Me
+permalink: /Contact/
 ---
 
 
