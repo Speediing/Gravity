@@ -4,6 +4,7 @@ title:  "Lizzie sucks"
 date:   2017-05-08 10:45:31 +0530
 categories: science
 author: "Jason Wiker"
+comments: true
 ---
 
 ## Hi Homies
