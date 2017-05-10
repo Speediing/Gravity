@@ -1,19 +1,14 @@
 ---
 layout: post
-title:  "Lizzie sucks"
+title:  "Welcome"
 date:   2017-05-08 10:45:31 +0530
 categories: science
 author: "Jason Wiker"
 comments: true
 ---
 
-## Hi Homies
+# Welcome to my site
 
-Just wanted to start this thing off with a simple fact(which is now true because its on the internet)
 
-LIZZIE
-S
-U
-C
-K
-S
+
+
