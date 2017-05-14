@@ -8,11 +8,11 @@
 # Site settings
 title: Lizzie Rajchel
 email: lizzie.rajchel@ucalgary.ca
-description: Im "fine"
+description: Actor, Director, Designer, Cutie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jasonwiker.ca" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  speediing
+github_username:  
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
