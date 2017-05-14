@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Projects
-permalink: /Projects/
-category: "Projects"
-tagline: "check em bro."
+title: Theatre
+permalink: /Theatre/
+category: "Theatre"
+tagline: "I do the shakespeare ya know"
 ---
