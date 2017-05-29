@@ -12,5 +12,7 @@ I am applying my English skills towards script writing, and am currently working
 
 If you have any questions or ideas/inquiries for a project please find my contact information here.
 
-![alt-text](https://raw.githubusercontent.com/Speediing/lizzierajchel.com/master/Headshot%202017.jpeg)
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/Speediing/lizzierajchel.com/master/IMG_9402.jpeg">
+</p>
 
