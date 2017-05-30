@@ -10,7 +10,7 @@ My passions lie in Shakespearean theatre, musical theatre and devised theatre. I
 
 I am applying my English skills towards script writing, and am currently working on the script of a modern adaptation of Hamlet called “Flowers for Ophelia”. This is my first film project, but you can read about it more [here](https://lizzierajchel.com/film/).
 
-If you have any questions or ideas/inquiries for a project please find my contact information [here](https://lizzierajchel.com/contact/).
+If you have any questions or ideas/inquiries for a project please find my contact information [here](https://lizzierajchel.com/Contact/).
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/Speediing/lizzierajchel.com/master/IMG_9402.jpeg">
